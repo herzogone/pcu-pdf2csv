@@ -1,4 +1,4 @@
-# People's Credit (Rhode Island, USA) PDF to CSV statement converter
+# People's Credit Union (Rhode Island, USA) PDF to CSV statement converter
 # Copyright (C) 2024 Brian Clayton (brianpclayton@gmail.com)
 
 # This program is free software: you can redistribute it and/or modify
